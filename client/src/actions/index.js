@@ -1,3 +1,6 @@
+import history from '../history';
+import streams from 'apis/streams';
+
 export const SIGN_IN = 'sign_in';
 export const SIGN_OUT = 'sign_out';
 
