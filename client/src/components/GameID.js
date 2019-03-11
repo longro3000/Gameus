@@ -3,5 +3,6 @@ export const GameId = {
     'Dota': '29595',
     'Apex': '511224',
     'PUBG': '493057',
-    'DMC5': '506412'
+    'DMC5': '506412',
+    'fortnite': '33214'
 };

@@ -10,7 +10,6 @@ class GameList extends React.Component {
 
     renderGameList() {
         const {games} = this.props;
-        console.log(games);
         return games.map(game => {
                 return (
                     <div>
